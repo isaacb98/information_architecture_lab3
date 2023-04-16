@@ -2,7 +2,7 @@
 
 |      Name      |        Email       |
 ---------------------------------------
-| Apurva Waghule |awaghule@mail.yu.edu|
+| Isaac Bendahan |ibendaha@mail.yu.edu|
 
 
 # Lab #3: Develop Code Repository and Push Commits 
